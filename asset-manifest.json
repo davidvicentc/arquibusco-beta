@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/arquibusco-beta/static/css/main.3aafaf09.chunk.css",
+    "main.js": "/arquibusco-beta/static/js/main.61a72de4.chunk.js",
+    "main.js.map": "/arquibusco-beta/static/js/main.61a72de4.chunk.js.map",
+    "runtime~main.js": "/arquibusco-beta/static/js/runtime~main.cdd7678f.js",
+    "runtime~main.js.map": "/arquibusco-beta/static/js/runtime~main.cdd7678f.js.map",
+    "static/css/2.00129a64.chunk.css": "/arquibusco-beta/static/css/2.00129a64.chunk.css",
+    "static/js/2.feb96f5e.chunk.js": "/arquibusco-beta/static/js/2.feb96f5e.chunk.js",
+    "static/js/2.feb96f5e.chunk.js.map": "/arquibusco-beta/static/js/2.feb96f5e.chunk.js.map",
+    "index.html": "/arquibusco-beta/index.html",
+    "precache-manifest.8ad713a75ea4d2a330d9573cd60b0276.js": "/arquibusco-beta/precache-manifest.8ad713a75ea4d2a330d9573cd60b0276.js",
+    "service-worker.js": "/arquibusco-beta/service-worker.js",
+    "static/css/2.00129a64.chunk.css.map": "/arquibusco-beta/static/css/2.00129a64.chunk.css.map",
+    "static/css/main.3aafaf09.chunk.css.map": "/arquibusco-beta/static/css/main.3aafaf09.chunk.css.map",
+    "static/media/main.scss": "/arquibusco-beta/static/media/ricardo-gomez-angel-205726-unsplash.ac0fce67.jpg",
+    "static/media/arquitectura.jpg": "/arquibusco-beta/static/media/arquitectura.e75a1199.jpg",
+    "static/media/artesania.jpg": "/arquibusco-beta/static/media/artesania.f5fc57f1.jpg",
+    "static/media/banner-photo3.png": "/arquibusco-beta/static/media/banner-photo3.dbef8289.png",
+    "static/media/closet.jpg": "/arquibusco-beta/static/media/closet.35ea9d72.jpg",
+    "static/media/fotografia.jpg": "/arquibusco-beta/static/media/fotografia.07620ae5.jpg",
+    "static/media/iluminacion.jpg": "/arquibusco-beta/static/media/iluminacion.b54553aa.jpg",
+    "static/media/interiorismo.jpg": "/arquibusco-beta/static/media/interiorismo.eaa3fac3.jpg",
+    "static/media/mobiliario.jpg": "/arquibusco-beta/static/media/mobiliario.7504211f.jpg",
+    "static/media/paisajismo.jpg": "/arquibusco-beta/static/media/paisajismo.51cbc6ed.jpg",
+    "static/media/publishwork2.png": "/arquibusco-beta/static/media/publishwork2.9f2abfaf.png",
+    "static/media/renders.jpg": "/arquibusco-beta/static/media/renders.928c5fc4.jpg",
+    "static/media/selectdesigner2.png": "/arquibusco-beta/static/media/selectdesigner2.75e49711.png"
+  }
+}
